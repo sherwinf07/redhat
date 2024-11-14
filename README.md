@@ -1,2 +1,4 @@
-# redhat
-This repository will guide you to installing, managing and configuring Red Hat Linux servers.
+# RedHat Linux - Guide
+### Author: Sherwin Frias
+
+This repository will guide in installing, managing and configuring Red Hat Linux servers.
